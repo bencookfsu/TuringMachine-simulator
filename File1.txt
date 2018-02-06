@@ -1,0 +1,2 @@
+q0 a a q1 R
+q1 b a q0 R
